@@ -1,0 +1,46 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+.main_div{
+    display: flex;
+    position: relative;
+    background-color: rgb(32, 57, 138);
+    height: 70px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 100px;
+    border: 2px solid black;
+}
+
+.add_input{
+    display: inline;
+    position: relative;
+    background-color: aqua;
+    /* margin-left: 20%; */
+    height: 30px;
+    width : 60%;
+    margin-top: 10px;
+}
+.add_button{
+    display: inline;
+    position: relative;
+    background-color: aqua;
+    margin-left: 10px;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+ol{
+    /* display: flex;
+    position: relative;
+    background-color: rgb(14, 2, 66);
+    margin-left: 30%;
+    margin-top: 20px;
+    flex-direction: column;
+    color: azure;
+    height: 40px;
+    width: 300px; */
+}
